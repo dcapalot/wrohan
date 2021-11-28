@@ -8,4 +8,9 @@ Pronounced = Ro-(HAN)
 # 🚀 About Me
 
 
-## I'm a future Webdeveloper ,C#, and Unity Developer
+# What do I wanna be ?
+## a future 
+* Web
+* C#
+* Unity Game Developer
+
