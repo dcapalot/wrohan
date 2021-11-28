@@ -5,12 +5,3 @@
 # Hello my name is Rohan Wallace
 Pronounced = Ro-(HAN)
 
-# 🚀 About Me
-
-
-# What do I wanna be ?
-## a future 
-* Web
-* C#
-* Unity Game Developer
-
